@@ -18,3 +18,5 @@ ISPIM Connect Fukuoka 2018
 
 - [Variance and Winner selection threshold](https://colab.research.google.com/drive/15k-sLm55P04_HGVzHFe9-mpHUlG2-BhT)
   - If threshold is high, high variance person performs well. If threshold is low, low variance person performs well.
+
+- [Regression toward the mean](https://colab.research.google.com/drive/1sa9unoqFyUmtjt3prXCl_cqdG09FrtQl)

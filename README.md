@@ -9,6 +9,7 @@ ISPIM Connect Fukuoka 2018
 
 - [See codes on Github](https://github.com/nishio/mot/blob/master/DisruptiveInnovation.ipynb)
 - [Run on Google Colab](https://colab.research.google.com/github/nishio/mot/blob/master/DisruptiveInnovation.ipynb)
+- [Slides](https://scrapbox.io/nishio/Disruptive_innovation_can_occur_even_if_technology_progresses_gradually)
 
 
 ## misc
